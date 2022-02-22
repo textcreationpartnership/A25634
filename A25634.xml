@@ -1,0 +1,154 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Account of the proceedings against Capt. Edward Rigby, at the Sessions of Goal Delivery, held at Justice-Hall in the Old-Bailey, on Wednesday the seventh day of December, 1698, for intending to commit the abominable sin of sodomy, on the body of one William Minton</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25634</idno>
+            <idno type="STC">Wing A346</idno>
+            <idno type="STC">ESTC R4937</idno>
+            <idno type="EEBO-CITATION">11889944</idno>
+            <idno type="OCLC">ocm 11889944</idno>
+            <idno type="VID">50432</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25634)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50432)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 47:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Account of the proceedings against Capt. Edward Rigby, at the Sessions of Goal Delivery, held at Justice-Hall in the Old-Bailey, on Wednesday the seventh day of December, 1698, for intending to commit the abominable sin of sodomy, on the body of one William Minton</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by F. Collins ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Printed by order of the court"</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Rigby, Edward --  Trials, litigation, etc.</term>
+               <term>Minton, William.</term>
+               <term>Trials (Sodomy) --  England --  London.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:50432:1" rendition="simple:additions"/>
+            <head>An Account of the PROCEEDINGS AGAINST Capt. Edward Rigby, <hi>At the</hi> Seſſions of Goal Delivery, <hi>held at</hi> Juſtice-Hall <hi>in the</hi> Old-Bailey, <hi>on</hi> Wedneſday <hi>the Seventh Day of</hi> December, 1698. <hi>for intending to Commit the</hi> Abominable SIN of SODOMY, <hi>on the Body of one</hi> William Minton.</head>
+            <head type="sub">Printed by Order of the Court.</head>
+            <p>AN Indictment was found againſt Captain <hi>Rigby,</hi> for that he, the Seventh day of <hi>November laſt,</hi> did Solicite, Incite, and as well by words as otherways, endea<g ref="char:EOLhyphen"/>vour to perſwade one <hi>William Minton</hi> (of about the Age of Nineteen Years) to ſuffer him the ſaid <hi>Rigby,</hi> to commit the Crime of <hi>Sodomy</hi> with him the ſaid <hi>Minton.</hi> And the ſaid <hi>Rigby</hi> did alſo Endeavour and Attempt, to Commit the Crime of <hi>Sodomy</hi> with him the ſaid <hi>Minton;</hi> and did alſo do and perpetrate divers other Enor<g ref="char:EOLhyphen"/>mities and abominable things, with an intent to Commit the Crime of <hi>Sodomy</hi> with the ſaid <hi>Minton.</hi>
+            </p>
+            <p>Captain <hi>Rigby</hi> being ſenſible of his Guilt, and unwilling the ſame ſhould be diſcloſed to the World, would not therefore Plead <hi>Not Guilty</hi> to his Indictment; neither would he confeſs the ſame, but Demurr'd to the Indictment, in hopes, as his Council alledged, that they might find ſome Fault therein; but upon Arguing the Demurrer, the Court were of Opinion the Indictment was good, and therefore Judgment was given againſt <hi>Rigby,</hi> which was the ſame as if he had Pleaded <hi>Guilty.</hi> And on the laſt day of the Seſſions, the Council for the King demanded Judgment againſt him, which could not be Adequate to his Crime; and for the Information of the Court, in or<g ref="char:EOLhyphen"/>der to give a Juſt and Exemplary Judgment, pray'd, That ſeveral Affidavits which were produced might be Read, which accordingly were Read; whereby it appeared, That on <hi>Saturday</hi> the Fifth of <hi>November</hi> laſt, <hi>Minton</hi> ſtanding in St. <hi>James's Park</hi> to ſee the Fire<g ref="char:EOLhyphen"/>works, <hi>Rigby</hi> ſtood by him, and took him by the hand, and ſqueez'd it; put his Privy Member Erected into <hi>Minton</hi>'s Hand; kiſt him, and put his Tongue into <hi>Minton</hi>'s Mouth, who being much aſtoniſh'd at theſe Actions went from him; but <hi>Rigby</hi> purſued him, and accoſted him again; and after much Diſcourſe prevailed with <hi>Minton</hi> to tell him where he lodged, and to meet him the <hi>Monday</hi> following about Five a Clock, at the <hi>George-Ta<g ref="char:EOLhyphen"/>vern</hi> in the <hi>Pall mall,</hi> and to Enquire for <hi>Number</hi> 4. <hi>Minton</hi> the next day Acquainted <hi>Charles Coates,</hi> Eſq (with whom he lived) with what had happened to him the Night before, and deſired his Advice and Direction therein; who with a Worthy Divine then preſent (being willing to detect and puniſh the Villany deſigned by <hi>Rigby</hi>) directed <hi>Minton</hi> to apply himſelf to <hi>Thomas Railton</hi> Eſq a Juſtice of the Peace for <hi>Middleſex;</hi> who being informed of what paſt between <hi>Rigby</hi> and <hi>Minton,</hi> appointed his Clark with a Conſta<g ref="char:EOLhyphen"/>ble, and two other Perſons, to go with <hi>Minton</hi> to the <hi>George-Tavern,</hi> who were to ſtay in ſome Room adjoyning to the Room whereinto <hi>Minton</hi> ſhould go: and if any Vio<g ref="char:EOLhyphen"/>lence ſhould be offered to him, upon crying out <hi>(Weſtminſter)</hi> the Conſtable and his Aſ<g ref="char:EOLhyphen"/>ſiſtance ſhould immediately enter the Room.</p>
+            <p>That on <hi>Monday</hi> the Seventh of <hi>November</hi> laſt, about Four of the Clock in the After<g ref="char:EOLhyphen"/>noon, <hi>Rigby</hi> came to the <hi>George-Tavern,</hi> and left <hi>Number</hi> 4. at the Bar, with Directi<g ref="char:EOLhyphen"/>ons, That if any Enquired for that Number, to ſend them to him; after <hi>Rigby</hi> had been about an Hour at the Tavern, (<hi>Minton</hi> not coming) <hi>Rigby</hi> called up one of the Drawers, and in a Paſſionate manner, bid him go to <hi>Minton</hi>'s Lodgings, and enquire for a young Gentleman; and if he were within, to tell him a Gentleman ſtaid for him at the <hi>George-Tavern;</hi> the Drawer accordingly went, but <hi>Minton</hi> not being within, the Drawer return'd that Anſwer to <hi>Rigby.</hi>
+            </p>
+            <pb facs="tcp:50432:2"/>
+            <p>That about ſix a clock <hi>Minton</hi> came to the <hi>George Tavern,</hi> enquired for Number 4. and was ſhewed into the room where <hi>Rigby</hi> was, and he Conſtable and his aſſiſtance were placed in a Room adjoyning; <hi>Rigby</hi> ſeemed much pleaſed upon <hi>Mintons</hi> coming, and drank to him in a glaſs of Wine and kiſt him, took him by the Hand, put his Tongue in<g ref="char:EOLhyphen"/>to <hi>Mintons</hi> Mouth, and thruſt <hi>Mintons</hi> hand into his <hi>(Rigby)</hi> Breeches, ſaying, <hi>He had raiſed his Luſt to the higheſt degree, Minton</hi> thereupon askt, <hi>How can it be, a Woman was only fit for that, Rigby</hi> anſwered, <hi>Dam'em, they are all Poxt, I'll have nothing to do with them.</hi> Then <hi>Rigby</hi> ſitting on <hi>Mintons</hi> Lap, kiſt him ſeveral times, putting his Tongue into his Mouth, askt him, <hi>if he ſhould F—him,</hi> how can that be askt <hi>Minton, I'le ſhow you</hi> anſwered <hi>Rigby, for it's no more than was done in our Fore-fathers time;</hi> and then to incite <hi>Minton</hi> thereto, fur<g ref="char:EOLhyphen"/>ther ſpake moſt Blaſphemous words, and ſaid, <hi>That the French King did it, and the</hi> Czar of <hi>Muſcovy made</hi> Alexander, <hi>a Carpenter, a Prince for that purpoſe,</hi> and affirmed, <hi>He had ſeen the</hi> Czar <hi>of</hi> Muſcovy <hi>through a hole at Sea, lye with Prince</hi> Alexander. Then <hi>Rigby</hi> kiſt <hi>Min<g ref="char:EOLhyphen"/>ton</hi> ſeveral times, putting his Tongue in his Mouth, and taking <hi>Minton</hi> in his Arms, wiſht he might lye with him all night, and that his Luſt was provoked to that degree, he had —in his Breeches, but notwithſtanding he could F—him; <hi>Minton</hi> there<g ref="char:EOLhyphen"/>upon ſaid, <hi>ſure you cannot do it here,</hi> yes, anſwered <hi>Rigby,</hi> I can, and took <hi>Minton</hi> to a corner of the Room, and put his Hands into <hi>Mintons</hi> Breeches, deſiring him to pull them down, who anſwered he would not, but he <hi>(Rigby) might do what he pleaſed;</hi> thereupon <hi>Rigby</hi> pul<g ref="char:EOLhyphen"/>led down <hi>Mintons</hi> Breeches, turn'd away his ſhirt, put his Finger to <hi>Mintons</hi> Fundament, and applyed his Body cloſe to <hi>Mintons,</hi> who feeling ſomething warm touch his Skin, put his hand behind him, and took hold of <hi>Rigbys</hi> Priv<gap reason="illegible" resp="#MURP" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> Member, and ſaid to <hi>Rigby, I have now diſcovered your baſe Inclinations, I will expoſe you to the World, to put a ſtop to theſe Crimes;</hi> and thereupon <hi>Minton</hi> went towards the door, <hi>Rigby</hi> ſtopt him, and drew his Sword, upon which <hi>Minton</hi> gave a ſtamp with his foot, and cry'd out <hi>Weſtminſter;</hi> then the Con<g ref="char:EOLhyphen"/>ſtable and his Aſſiſtance came into the Room, and ſeized <hi>Rigby,</hi> who offer'd the Conſtable a Gratuity to let him go, which he refuſing, carryed <hi>Rigby</hi> before Sir <hi>Henry Dutton Colt,</hi> before whom <hi>Minton</hi> charged <hi>Rigby</hi> (who was preſent) with the Fact, to the effect be<g ref="char:EOLhyphen"/>fore related; who being askt by Sir <hi>Henry Colt, Whether the Fact</hi> Minton <hi>had charged him with were True,</hi> Rigby denyed not that the Charge againſt him was true, only objected a<g ref="char:EOLhyphen"/>gainſt ſome inconſiderable Circumſtances, which no ways tended to the leſſening of the Charge.</p>
+            <p>That after all the Informations were read, <hi>Rigby</hi> was askt by the Court, <hi>What he had to ſay for himſelf,</hi> he deſired that a Gentlemans Affidavit who was preſent when this matter was tranſacted might be read; the Court told him, <hi>That that Gentleman ſtood Indicted in the ſame Indictment with him, for being Aiding, Adviſing, and Aſſiſting to him, in com<g ref="char:EOLhyphen"/>mitting his Crime, and therefore could not be an Evidence for him. Rigby</hi> was askt by the Court <hi>what further he had to ſay,</hi> he inſiſted on his Innocency, that he was miſadviſed by his Council in Demurring to the Indictment, which if he had known had been Confeſſing of the Fact in caſe the Court had been of Opinion that the Indictment was ſufficient, he would not have done it; but ſeeing the Law was ſo he muſt ſubmit to it; he ſaid he was Drunk, and might kiſs <hi>Minton</hi> ſeveral times. To which it was anſwered by the Kings Council, <hi>That his</hi> (Rigbys) <hi>Council had well adviſed him, and he knew his Guilt to be ſuch, That it would be proved by Three or Four Witneſſes beyond all contradiction, and therefore</hi> Rigby <hi>De<g ref="char:EOLhyphen"/>murred to the Indictment, in hopes thereby his Crime would not be Diſcloſed, as it muſt have been if he had pleaded Not Guilty to his Indictment, and ſubmitted to a Tryal; but as the Fact had now been made publick in Court; and it alſo appearing that he was not Drunk when he Committed it.</hi>
+            </p>
+            <p>It was therefore prayed by the King's Council, that the Court would give an Exem<g ref="char:EOLhyphen"/>plary Judgment againſt him, for that Crime of which, by his own Confeſſion, he ſtood Convicted, and was not in its Nature to be Aggravated.</p>
+            <p>And the Judgment which was pronounced by the Court againſt <hi>Rigby,</hi> was, <hi>viz.</hi>
+            </p>
+            <list>
+               <item>
+                  <hi>That he ſtand Three ſeveral Days in the Pillory, for the ſpace of two Hours, from Eleven of the Clock to One, in each of thoſe days.</hi>
+               </item>
+               <item>
+                  <hi>The Firſt day over-againſt the</hi> George-Tavern <hi>in the</hi> Pall-mall; <hi>the Second day at</hi> Charing-Croſs, <hi>and the Third day at</hi> Temple-Bar.</item>
+               <item>
+                  <hi>That he pay a Fine of</hi> 1000 l. <hi>to the King.</hi>
+               </item>
+               <item>
+                  <hi>That he lye in Priſon for a Year, after he ſhall have paid his Fine.</hi>
+               </item>
+               <item>
+                  <hi>And that before he be diſcharged out of Priſon, he ſhall find ſufficient Sureties for his good Behaviour for Seven Years.</hi>
+               </item>
+            </list>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London: <hi>Printed by</hi> F. Collins <hi>in the</hi> Old Bailey. <hi>1698.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
